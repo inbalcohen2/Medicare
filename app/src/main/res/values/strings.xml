@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pill Reminder</string>
+    <string name="add_pill">Add pill</string>
+    <string name="pill_name">Pill name:</string>
+    <string name="pill_description">Pill description:</string>
+    <string name="the_reminder_list_is_empty_please_add_a_new_reminder">The reminder list is empty! , Please add a new reminder.</string>
+    <string name="pill_detail">Pill Detail</string>
+</resources>
